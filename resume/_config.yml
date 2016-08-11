@@ -1,0 +1,19 @@
+# Jekyll Resume Theme
+
+# Site settings
+title: Sameer Sadiq
+email: sameersadiq1@gmail.com
+description:
+baseurl:
+url:
+url:
+name: Sameer Sadiq
+job: Software Developer
+location: Indianapolis, IN
+languages: Java/J2EE, Python, JavaScript, jQuery, SQL, XSLT, XML (XSD) Schema and Bash/Shell Scripting.
+twitter_username: sameersadiq1
+github_username:  sameersadiq1
+email_address: sameersadiq1@gmail.com
+
+# Build settings
+markdown: kramdown
