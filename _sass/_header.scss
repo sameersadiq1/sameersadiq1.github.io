@@ -1,10 +1,11 @@
 // @name Header
 // @description All header styles
-
+@import "_animation";
 header {
     border-bottom: 1px solid #edefee;
     padding: ($spacer * 2) 0;
     margin-bottom: ($spacer * 2);
+
 
     @media(min-width: 640px) {
         padding: ($spacer * 10) 0 ($spacer * 3);
@@ -19,22 +20,54 @@ header {
         text-transform: uppercase;
         letter-spacing: 4px;
     }
+  &__submain {
+       font-size: 1.0rem;
+       line-height: 1.0;
+       font-weight: bolder;
+       margin: 5px 0 20px;
+       animation-delay:1s;
+       animation-duration: 2s;
+       animation-name: hinge;
+
+     }
+
+
 
     &__main {
         font-size: 1.8rem;
         line-height: 1.2;
         font-weight: bold;
-        margin: 10px 0 20px;
+        margin: 10px 0 10px;
+        animation-duration: 2s;
+        animation-name: bounceInDown;
+
+
+
+
+
+
+
 
         @media(min-width: 640px) {
             font-size: 2.2rem;
             max-width: 60%;
         }
+
     }
 }
 
 .social {
+
+
+
+
     a {
-        margin-right: $spacer;
+      margin-right: $spacer;
+
+
+
+
+
+
     }
 }
