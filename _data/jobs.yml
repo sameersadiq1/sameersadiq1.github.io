@@ -1,9 +1,33 @@
--   title: Consultant Software Engineer
+-title: QA Automation Engineer
+    company: McGraw Hil Education
+    description:
+                •	Formulated a test plan to help test Platform Services (RESTful API’s) using Jmeter and SOAP UI.<br>
+                •	BDD/Cucumber approach which allows non-programming QA engineers to write new automated tests.<br>
+                •	Reduced test runtimes to help improve the deployment process.<br>
+                •	Tests are run on server in a continuous manner with help of Jenkins.<br>
+                •	Cross browser testing and also tests run on SauceLabs.<br>
+                •	Conducted code reviews.<br>
+                •	Daily review of automated test results and defect creation.<br>
+                •   Work in an Agile manner to come up with test strategies.<br>
+                
+
+
+title: QA Automation Engineer
     company: Verizon Data Services
-    description: •	Designed and implemented a Simulator for various network elements in order to reduce, and in some cases, eliminate dependency on real lab devices.<br>
-                 •	Worked with multiple teams in order to seamlessly integrate various different interfaces with internal applications.<br>
-                 •	Implemented the CI/CD (Continuous Integration/ Continuous Deployment) to improve build and deployment times and eliminate human component from the deployment process to make it fully autonomous.<br>
-                 •	Worked with QA to help automate various tests to reduce test runtime to almost a third.<br>
+    description:  
+                •	Designed a framework using Java and Selenium for backend and front end testing (Web services, MQ and GUI)<br>
+                •	Aimed to achieve complete automation of test cases to perform rapid, frequent deployment and testing<br>
+                •	Helped design and code Java applications to simulate field/lab devices to reduce test dependency on physical Routers/ONT’s/STB’s.<br>
+                •	Performed API testing using Soap UI.<br>
+                •	Use of tools such as Jenkins to perform Continuous Integration/ Continuous Deployment (CI/CD)<br>
+                •	Use of management tools such as JIRA and to track test cases. <br>
+                •	Used ZEPHYR API(s) to integrate test cases with JIRA and Jenkins to create, manage and run test cases based on specific code deployments. Report defects back in a completely automated manner. <br>
+                •	Track tasks and mark estimates of various tasks using Agile methodology<br>
+                •	Helped design a build pipeline for continuous deployment and testing<br>
+                •	Managing test results using Jira for all testing phases (update, follow-up and escalate overdue issues).<br>
+                •	Expert familiarity with all the devices and network protocols to be better at coming up with test plans and strategies.<br>
+                •	Using Selenium GRID to perform remote hub testing and using Selenium in general to perform cross browser testing.<br>
+
 
 
 -   title: Tutor
