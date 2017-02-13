@@ -1,4 +1,4 @@
--title: QA Automation Engineer
+-   title: QA Automation Engineer
     company: McGraw Hil Education
     description:
                 •	Formulated a test plan to help test Platform Services (RESTful API’s) using Jmeter and SOAP UI.<br>
@@ -9,10 +9,8 @@
                 •	Conducted code reviews.<br>
                 •	Daily review of automated test results and defect creation.<br>
                 •   Work in an Agile manner to come up with test strategies.<br>
-                
-
-
-title: QA Automation Engineer
+  
+-   title: QA Automation Engineer
     company: Verizon Data Services
     description:  
                 •	Designed a framework using Java and Selenium for backend and front end testing (Web services, MQ and GUI)<br>
@@ -27,7 +25,6 @@ title: QA Automation Engineer
                 •	Managing test results using Jira for all testing phases (update, follow-up and escalate overdue issues).<br>
                 •	Expert familiarity with all the devices and network protocols to be better at coming up with test plans and strategies.<br>
                 •	Using Selenium GRID to perform remote hub testing and using Selenium in general to perform cross browser testing.<br>
-
 
 
 -   title: Tutor
